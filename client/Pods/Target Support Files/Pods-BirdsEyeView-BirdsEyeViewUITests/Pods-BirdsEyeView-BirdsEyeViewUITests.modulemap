@@ -1,0 +1,6 @@
+framework module Pods_BirdsEyeView_BirdsEyeViewUITests {
+  umbrella header "Pods-BirdsEyeView-BirdsEyeViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
